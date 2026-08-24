@@ -1,4 +1,4 @@
-# Gait-Based Authentication MVP (Physical Access Control)
+# Gait-Based Authentication (Physical Access Control)
 
 A complete Python implementation of a gait recognition biometric access control system using standard video feeds (webcam) and pose estimation.
 
